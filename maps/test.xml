@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<map>
+	<background>maps/backgrounds/test.png</background>
+	<teleport>
+		<newmap>maps/test2.xml</newmap>
+		<x>0</x>
+		<y>0</y>
+		<playerx>1880</playerx>
+		<playery>1040</playery>
+	</teleport>
+</map>

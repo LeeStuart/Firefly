@@ -1,0 +1,18 @@
+Version 0.0.1 - Week 1
+Added player
+Added rotation of player
+Added movement
+Added projectiles
+Added weapon class
+Added custom sprites
+Changed weapons to fire continously
+Added a scrolling map background
+Added bounds to map to prevent walking off the edge
+Changed map to load from xml file
+Added Teleport class and ability to switch between maps at a certain position
+
+Version 0.0.2 - Week 2
+Changed map rendering to avoid black bars at edges
+Changed the movement so you no longer walk faster diagonally
+Added enemy class, can move towards player and shoot continously
+Player and Enemy are now subclasses of Human
